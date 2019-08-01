@@ -65,6 +65,10 @@ app.get('/blogs/:id', function(req, res){
   })
 })
 
+app.get('/blogs/:id/edit', function(req, res){
+    res.render("edit")
+})
+
 
   app.listen(3000, function(){
     console.log("*** SERVER RUNNING ***")
