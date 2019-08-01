@@ -5,3 +5,8 @@ i.icon {
 .container.main {
   margin-top: 6em;
 }
+
+img {
+  height: 300px;
+  border-radius: 7px;
+}
