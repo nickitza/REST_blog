@@ -9,3 +9,7 @@ i.icon {
 img {
   height: 300px;
 }
+span {
+  display:table;
+  margin:0 auto;
+  }
