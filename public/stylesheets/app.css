@@ -13,3 +13,7 @@ span {
   display:table;
   margin:0 auto;
   }
+
+#delete {
+  display: inline;
+}
